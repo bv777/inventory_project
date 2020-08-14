@@ -1,0 +1,3 @@
+[submodule "inventory_project-backend"]
+	path = inventory_project-backend
+	url = https://github.com/bv777/inventory_project-backend.git
